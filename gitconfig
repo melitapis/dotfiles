@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	name = Thibault Fitte Duval
+	email = thibault.fitteduval.tfd@gmail.com
